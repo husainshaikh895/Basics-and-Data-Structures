@@ -2,11 +2,12 @@
 Byte sized programmes in python3 
 
 # - binary.py :
-Binary Search - to sort a given list of numbers
-Time Complexity - O(n^2)
+Binary Search - To search for an element using Divide and Conquer
+Time Complexity - O(logn)
 
 # - bubble.py
-Bubble sort
+Bubble sort  - to sort a given list of numbers
+Time Complexity - O(n^2)
 
 # - date2day.py
 Calculates Day from a given date in 2019
