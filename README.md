@@ -18,6 +18,9 @@ Double Ended Queue using ```list[]```
 # - linkedlist.py
 Simple Linked list without using User defined class
 
+# - ndivisors.py
+Find Total number of divisors of all the numbers between 0 - given number
+
 # - primality.py
 Checks if a number is prime or not.
 
