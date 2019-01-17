@@ -50,10 +50,10 @@ Simple Linked list without using User defined class
 4 5 6  	
 7 8 9  
 
-'''
+```
 rotate 90 degrees
 
-'''
+```
 7 4 1
 8 5 2
 9 6 3
