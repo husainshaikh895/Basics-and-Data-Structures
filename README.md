@@ -43,6 +43,14 @@ Inspired by this concept
 
 Simple Linked list without using User defined class
 
+**- MATRIX ROTATION - 90 DEGREES CLOCKWISE - matrix.py**
+```
+
+1 2 3                       7 4 1
+4 5 6  rotate 90 degrees	   8 5 2
+7 8 9                       9 6 3
+
+```
 **- FIND DIVISORS - ndivisors.py**
 
 Find Total number of divisors of all the numbers between 0 - given number
