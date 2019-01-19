@@ -1,5 +1,5 @@
 # Basics-and-Data-Structures
-Byte sized programmes in python3 (and C : 1)
+Byte sized programmes in python3 (mostly)
 
 **- BINARY SEARCH - binary.py :**
 
@@ -83,6 +83,10 @@ Time Complexity - O(n^2)
 **- SIEVE OF ERATOSTHENES - soe.py**
 
 Shows all the prime numbers below a given number
+
+**- SCISSOR PAPER ROCK GAME - TEXT BASED - spr.java**
+
+Text Based Scissor paper Rock game in Java.
 
 **- STACK DATA STRCUTURE - Stack.py**
 
