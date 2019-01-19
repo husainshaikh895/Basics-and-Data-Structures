@@ -1,5 +1,5 @@
 # Basics-and-Data-Structures
-Byte sized programmes in python3 
+Byte sized programmes in python3 (and C : 1)
 
 **- BINARY SEARCH - binary.py :**
 
@@ -66,6 +66,10 @@ Find Total number of divisors of all the numbers between 0 - given number
 **- PRIMALITY TEST - primality.py**
 
 Checks if a number is prime or not.
+
+**- CIRCULAR NUMBER ROTATION - rotate.c**
+
+Rotates a given number by a specified number. 
 
 **- SIMPLE QUEUE DATA STRUCTURE - Queue.py**
 
