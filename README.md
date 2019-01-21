@@ -1,6 +1,10 @@
 # Basics-and-Data-Structures
 Byte sized programmes in python3 (mostly)
 
+**- TESTING DECISION TREE CLASSIFIER FOR AND / OR LOGIC - andor.py**
+
+Classifying Lists of two numbers trained on AND / OR logic 
+
 **- BINARY SEARCH - binary.py :**
 
  To search for an element using Divide and Conquer
