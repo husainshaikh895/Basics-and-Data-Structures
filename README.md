@@ -88,12 +88,24 @@ Queue Data structure using FIFO principle
 
 **- SELECTION SORT - selection.py**
 
-Selection sort -  to sort a given list of numbers
-Time Complexity - O(n^2)
+In computer science, selection sort is a sorting algorithm, specifically an in-place comparison sort. It has O time complexity, making it inefficient on large lists, and generally performs worse than the similar insertion sort. -  [Wikipedia](Selection sort - Wikipedia
+https://en.wikipedia.org/wiki/Selection_sort)
+Worst complexity: `n^2`
+Average complexity: `n^2`
+Best complexity: `n^2`
+Space complexity: `1`
+Method: `Selection`
+Stable: `No`
+Class: `Comparison sort`
 
 **- SIEVE OF ERATOSTHENES - soe.py**
 
-Shows all the prime numbers below a given number
+
+Sieve of Eratosthenes: algorithm steps for primes below 121 (including optimization of starting from prime's square).
+In mathematics, the sieve of Eratosthenes is a simple, ancient algorithm for finding all prime numbers up to any given limit.
+
+[Sieve of Eratosthenes - Wikipedia](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
+
 
 **- SCISSOR PAPER ROCK GAME - TEXT BASED - spr.java**
 
@@ -101,4 +113,6 @@ Text Based Scissor paper Rock game in Java.
 
 **- STACK DATA STRCUTURE - Stack.py**
 
-Stack Data structure using LIFO principle
+Stack is an ordered list of similar data type. Stack is a LIFO(Last in First out) structure or we can say FILO(First in Last out). push() function is used to insert new elements into the Stack and pop() function is used to remove an element from the stack.
+
+Find more about it [here.](https://www.geeksforgeeks.org/stack-data-structure/) 
