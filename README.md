@@ -54,6 +54,12 @@ Inspired by this concept
 
 Simple Linked list without using User defined class
 
+**- CLASSIFIER FOR LOGIC GATES - logic_gates_classifier.py**
+
+This program predicts output of logic gates. Type of logic gate is passed as feature.
+Currently supports :
+AND, OR and XOR gate.
+
 **- MATRIX ROTATION - 90 DEGREES CLOCKWISE - matrix.py**
 ```
 
